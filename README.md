@@ -53,18 +53,6 @@ git clone https://github.com/seu-usuario/biblioteca-de-tatuagens.git
 ```
     index.html
 
-3.  Se o navegador bloquear o `fetch()` local, execute um servidor:
-
-### Via Python:
-
-``` bash
-python -m http.server
-```
-
-### Via Live Server (VS Code):
-
-Use a extensão **Live Server** e clique em *"Open with Live Server"*.
-
 ## Melhorias Futuras
 
 -   Paginação\
