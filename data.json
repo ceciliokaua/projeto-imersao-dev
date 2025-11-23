@@ -1,0 +1,206 @@
+[
+  {
+    "nome": "Old School (Tradicional)",
+    "descricao": "Caracterizado por linhas pretas grossas, uma paleta de cores limitada (vermelho, verde, amarelo, azul) e desenhos icônicos como âncoras, sereias, corações e águias.",
+    "origem_periodo": "Início do século XX",
+    "link_referencia": "https://pt.wikipedia.org/wiki/Tatuagem_old_school",
+    "tags": [
+      "tradicional",
+      "cores",
+      "linhas grossas",
+      "clássico"
+    ],
+    "imagens": [
+      "imagens/oldschool1.png",
+      "imagens/oldschool2.png",
+      "imagens/oldschool3.png"
+    ]
+  },
+  {
+    "nome": "Realismo",
+    "descricao": "Busca recriar imagens da forma mais fiel possível à realidade, como fotografias ou retratos. Pode ser feito em preto e cinza ou colorido, exigindo grande habilidade do tatuador.",
+    "origem_periodo": "Final do século XX",
+    "link_referencia": "https://myttooz.com/realismo/",
+    "tags": [
+      "preto e cinza",
+      "colorido",
+      "retrato",
+      "fotográfico"
+    ],
+    "imagens": [
+      "imagens/realismo1.jpg",
+      "imagens/realismo2.jpg",
+      "imagens/realismo3.jpg"
+    ]
+  },
+  {
+    "nome": "Aquarela (Watercolor)",
+    "descricao": "Simula o efeito de pinceladas e manchas de tinta aquarela sobre a pele. É conhecido por suas cores vibrantes e transições suaves, sem contornos definidos.",
+    "origem_periodo": "Anos 2010",
+    "link_referencia": "https://inkertattoo.com.br/tatuagem-aquarela/",
+    "tags": [
+      "colorido",
+      "abstrato",
+      "fluido",
+      "artístico"
+    ],
+    "imagens": [
+      "imagens/aquarela1.jpg",
+      "imagens/aquarela2.jpg",
+      "imagens/aquarela3.jpg"
+    ]
+  },
+  {
+    "nome": "Pontilhismo (Dotwork)",
+    "descricao": "Técnica que utiliza milhares de pequenos pontos para criar imagens, sombras e texturas. Frequentemente combinado com padrões geométricos e mandalas.",
+    "origem_periodo": "Antigo, popularizado nos anos 90",
+    "link_referencia": "https://blog.tattoo2me.com/tatuagem-pontilhismo-45-projetos-e-15-artistas-incriveis-para-acompanhar",
+    "tags": [
+      "pontos",
+      "preto e cinza",
+      "geométrico",
+      "detalhado"
+    ],
+    "imagens": [
+      "imagens/pontilhismo1.jpg",
+      "imagens/pontilhismo2.jpg",
+      "imagens/pontilhismo3.jpg"
+    ]
+  },
+  {
+    "nome": "Geométrico",
+    "descricao": "Utiliza formas geométricas, linhas retas e padrões simétricos para criar desenhos complexos e abstratos. Muitas vezes combinado com pontilhismo.",
+    "origem_periodo": "Contemporâneo",
+    "link_referencia": "https://inkertattoo.com.br/tatuagem-geometrica/",
+    "tags": [
+      "formas",
+      "linhas",
+      "simetria",
+      "abstrato"
+    ],
+    "imagens": [
+      "imagens/geometrico.jpg",
+      "imagens/geometrico1.jpg",
+      "imagens/geometrico2.jpg"
+    ]
+  },
+  {
+    "nome": "Blackwork",
+    "descricao": "Estilo que utiliza exclusivamente tinta preta sólida para criar desenhos, padrões tribais, formas geométricas ou cobrir grandes áreas do corpo. O resultado é impactante e de alto contraste.",
+    "origem_periodo": "Antigo, ressurgiu com força no século XXI",
+    "link_referencia": "https://www.outsidetattoo.com/o-que-e-blackwork-origem-evolucao-a-desdobramentos-do-estilo",
+    "tags": [
+      "preto sólido",
+      "tribal",
+      "abstrato",
+      "alto contraste"
+    ],
+    "imagens": [
+      "imagens/backwork1.jpg",
+      "imagens/backwork2.jpg",
+      "imagens/blackwork3.jpg"
+    ]
+  },
+  {
+    "nome": "New School",
+    "descricao": "Uma evolução do Old School, com uma paleta de cores muito mais ampla e vibrante, perspectivas exageradas e temas caricatos, como personagens de desenhos animados e grafite.",
+    "origem_periodo": "Anos 80 e 90",
+    "link_referencia": "https://www.tattoodo.com/guides/styles/new-school",
+    "tags": [
+      "caricato",
+      "cores vibrantes",
+      "grafite",
+      "exagerado"
+    ],
+    "imagens": [
+      "imagens/NewSchool1.jpg",
+      "imagens/NewSchool2.jpg",
+      "imagens/NewSchool3.jpg"
+    ]
+  },
+  {
+    "nome": "Fineline (Linha Fina)",
+    "descricao": "Estilo delicado que utiliza agulhas finas para criar traços precisos e detalhados. Ideal para desenhos minimalistas, florais e pequenas escritas.",
+    "origem_periodo": "Contemporâneo",
+    "link_referencia": "https://blog.tattoo2me.com/fineline-especialistas-neste-estilo-de-tatuagem",
+    "tags": [
+      "delicado",
+      "minimalista",
+      "linhas finas",
+      "detalhado"
+    ],
+    "imagens": [
+      "imagens/Fineline1.jpg",
+      "imagens/Fineline2.jpg",
+      "imagens/Fineline3.jpg"
+    ]
+  },
+  {
+    "nome": "Neo Tradicional",
+    "descricao": "Uma ponte entre o Old School e o New School. Mantém a estrutura de linhas fortes do tradicional, mas incorpora uma paleta de cores mais rica, sombreamento e detalhes mais realistas.",
+    "origem_periodo": "Anos 2000",
+    "link_referencia": "https://blog.tattoo2me.com/o-que-voce-precisa-saber-sobre-tatuagem-neo-traditional",
+    "tags": [
+      "tradicional moderno",
+      "cores ricas",
+      "detalhado",
+      "art nouveau"
+    ],
+    "imagens": [
+      "imagens/NeoTradicional1.jpg",
+      "imagens/NeoTradicional2.png",
+      "imagens/NeoTradicional3.jpg"
+    ]
+  },
+  {
+    "nome": "Japonês (Irezumi)",
+    "descricao": "Estilo tradicional japonês com uma rica história e simbologia. Apresenta figuras mitológicas como dragões e fênix, além de carpas (koi), flores e samurais, muitas vezes em peças grandes que cobrem o corpo.",
+    "origem_periodo": "Período Edo (1603-1868)",
+    "link_referencia": "https://pt.wikipedia.org/wiki/Irezumi",
+    "tags": [
+      "tradicional",
+      "oriental",
+      "mitologia",
+      "peças grandes"
+    ],
+    "imagens": [
+      "imagens/Japones1.jpg",
+      "imagens/Japones2.jpg",
+      "imagens/Japones3.jpg"
+    ]
+  },
+  {
+    "nome": "Maori (Tā moko)",
+    "descricao": "Arte corporal tradicional do povo Maori da Nova Zelândia. Caracteriza-se por padrões curvos e espirais com profundo significado cultural, representando a ancestralidade e status social do indivíduo.",
+    "origem_periodo": "Ancestral",
+    "link_referencia": "https://pt.wikipedia.org/wiki/T%C4%81_moko",
+    "tags": [
+      "tribal",
+      "cultural",
+      "preto",
+      "simbólico"
+    ],
+    "imagens": [
+      "imagens/Maori1.jpg",
+      "imagens/Maori2.jpg",
+      "imagens/Maori3.jpg"
+    ]
+  },
+  {
+    "nome": "Trash Polka",
+    "descricao": "Estilo caótico e vanguardista criado na Alemanha. Combina elementos realistas, como retratos e figuras, com manchas, pinceladas e formas abstratas, usando predominantemente as cores preta e vermelha.",
+    "origem_periodo": "Anos 2000",
+    "link_referencia": "https://tattooing101.com/learn/styles/trash-polka/",
+    "tags": [
+      "vanguarda",
+      "caótico",
+      "preto e vermelho",
+      "abstrato"
+    ],
+    "imagens": [
+      "imagens/TrashPolka1.jpg",
+      "imagens/TrashPolka2.jpg",
+      "imagens/TrashPolka3.jpg"
+    ]
+  }
+]
