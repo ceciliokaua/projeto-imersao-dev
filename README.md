@@ -65,7 +65,7 @@ python -m http.server
 
 Use a extensão **Live Server** e clique em *"Open with Live Server"*.
 
-## 📌 Melhorias Futuras
+## Melhorias Futuras
 
 -   Paginação\
 -   Filtros avançados\
@@ -73,7 +73,7 @@ Use a extensão **Live Server** e clique em *"Open with Live Server"*.
 -   Versão PWA\
 -   Tela de detalhes para cada estilo
 
-## 👤 Autor
+## Autor
 
 **Kauã Cecilio**\
 Instagram: https://www.instagram.com/ink.aua/
